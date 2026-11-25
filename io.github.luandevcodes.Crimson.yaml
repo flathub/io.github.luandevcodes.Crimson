@@ -35,8 +35,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/LuanDevCodes/Crimson.git
-        tag: V.4.1.0
-        commit: 1131922e6bf6d934c3a2250a14f76814fb6293f2
+        tag: V.4.2.0
+        commit: f90281664cff166b33e50e518f33ef7120cbaf55
         x-checker-data:
           type: git
           tag-pattern: ^V\.([\d.]+)$
